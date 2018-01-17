@@ -1,0 +1,3 @@
+const APP_COMPANY_CHANGE = 'APP_COMPANY_CHANGE';
+
+export default APP_COMPANY_CHANGE;

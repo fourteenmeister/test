@@ -1,0 +1,23 @@
+.app-wrapper {
+  height: auto;
+
+  .select-wrapper {
+    display: flex;
+    margin: 0 20%;
+    align-items: center;
+  }
+
+  .select-label {
+    margin-right: 10px;
+  }
+
+  .cards-wrapper {
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+    flex-flow: row wrap;
+    align-content: flex-end;
+    margin-top: 10px;
+  }
+}
